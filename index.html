@@ -1,53 +1,18 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Madgal.GitHub.io by madgal</title>
+---
+layout: default
+---
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Madgal.GitHub.io</h1>
-        <p></p>
-
-
-        <p class="view"><a href="https://github.com/madgal">View My GitHub Profile</a></p>
-
-      </header>
-      <section>
-        <p>the config documet sets up the main page of my website</p>
-
-<p>putting additional items in posts puts the post on the home webpage</p>
-
-<p>TO CREATE New PAGEs: 
-    copy one of the *.md files in the main directory and modify the title and content
-    MAKE SURE TO CHANGE THE PERMALINK TO THE CORRECT DIRECTORY</p>
-
-<p>To link to another post go:
- <a href="%7B%%20post_url%20thePostName%20%%7D">title that will show up</a>
- <a href="%7B%%20post_url%20/2016-02-16-welcome-to-jekyll%20%%7D">Welcome to Jekyll!</a></p>
-
-<p>To include icons :
-    {% include icon-github.html username="jglovier" %} /</p>
-
-<p>git status
-git add -A
-git commit -m "update"
-git push</p>
-      </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-    
-  </body>
-</html>
+<div class="home">
+  <h1 class="page-heading">Posts</h1>
+  <u1 class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{post.dat | date: "%b %-d, %Y"}}</span>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </u1>
+  <p class="rss-subscribe">subscripe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+</div>
