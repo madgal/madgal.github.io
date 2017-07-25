@@ -18,7 +18,12 @@ permalink: /resume/
 
 # Professional Experience
 
+#### Research Aide at Argonne National Laboratory, May 2017 - August 2017
 
+Supervisor: Anouar Benali, Leadership Computing Facility
+
++ Determine effects of reoptimization on DMC energies
++ Start development of the "black box" for qmcpack
 
 #### Computational Research, October 2014 - Spring 2017
 
