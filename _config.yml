@@ -10,9 +10,9 @@ title: Madeline L. Galbraith
 email: galbraithm@duq.edu
 #email: galbraithm001@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I am currently working on a bachelors in physics and a bachelors
-  in computer science at Duquesne University. My interests lie in computational 
-  science, mathematics, and its applications. 
+  I am currently working on a bachelors in physics and computer science
+  at Duquesne University. My interests lie in computational science, 
+  mathematics, and its applications. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://madgal.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb

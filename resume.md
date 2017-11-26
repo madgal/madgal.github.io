@@ -81,7 +81,7 @@ Department of Physics, Duquesne University
 + Familiarity with Linux and Windows operating systems
 
 # Awards
-+ Goldwater Fellow, Spring 2017
++ Goldwater Scholar, Spring 2017
 
 # Professional Memberships
 Member, Sigma Pi Sigma, Physics Honor Society, Spring 2016 - Present
