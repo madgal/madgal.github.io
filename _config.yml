@@ -7,12 +7,11 @@
 
 # Site settings
 title: Madeline L. Galbraith 
-email: galbraithm@duq.edu
+email: madeline.l.galbraith@gmail.com
 #email: galbraithm001@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I am currently working on a bachelors in physics and computer science
-  at Duquesne University. My interests lie in computational science, 
-  mathematics, and its applications. 
+  I am a PhD candidate at Rice University in the department of Physics under the advisement of Jos`e
+Onuchic in the Center for Theoretical Biological Physics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://madgal.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
@@ -21,8 +20,8 @@ github_username:  madgal
 # Build settings
 markdown: kramdown
 
-collections:
-   CodeSamples:
-     java:
-      output: true
-      permalink: /CodeSamples/java/
+#collections:
+#   CodeSamples:
+#     java:
+#      output: true
+#      permalink: /CodeSamples/java/
