@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume 
+title: CV
 permalink: /resume/
 ---
 
@@ -12,46 +12,39 @@ permalink: /resume/
 
 + Bachelor of Science in Physics	
 + Bachelor of Arts in Computer Science
-+ Minor: Mathematics
++ Minor in Mathematics
 
 #### Rice University, Houston TX
 
-#### 
-
-+ Doctorate in Physics	
++ Doctorate in Physics, concentration in theoretical biological physics
 + Expected date of defense: 2022
 
-# Professional Experience
+# Research Experience
 
-#### Research Aide at Argonne National Laboratory, May 2017 - August 2017
+#### Onuchic Rsearch Group, Center for Theoretical Biological Physics, Rice University, Houston TX
+### Graduate Research Assistant
+### January 2019-Present
 
-Supervisor: Anouar Benali, Leadership Computing Facility
+Graduate Research Fellow
++ Develop stochastic models to understand pattern formation in Notch mediated signaling pathways
++ Generalized Random Circuit Perturbation (RACIPE) to include chemical binding
 
-+ Determine effects of reoptimization on DMC energies
-+ Start development of the "black box" for qmcpack
+#### Pettitt Research Group, University of Texas Medical Branch, Galveston TX
+### Undergraduate Research Assistant
+### Summer 2016 and 2018
 
-#### Computational Research, October 2014 - Spring 2017
-
-Madura Research Group, Duquesne University 
-
-+ Research hydration properties of the thermo-responsive polymer poly(n-isopropylacrylamide)
-+ Run molecular dynamics simulations using NAMD
-+ Develop programs in python to analyze hydration properties using Voronoi polyhedra
-
-#### Undergraduate Physics Laboratory Teaching Assistant, August 2016 - December 2016
-Supervisor: Darryl Ozimek, Department of Physics, Duquesne University
-+ Taught physics laboratory techniques in conjunction with material taught in lecture
-+ Inroduced DataStudio for graphical analysis of motion and forces
-+ Graded labs and maintained gradebook
-
-#### Computational Cancer Biology Training Program June 2016 - August 2016
-
-Pettitt Group, University of Texas Medical Branch
-
-+ Worked on continuing development of software to calculated proximal radial distribution functions of proteins for use in crystal structure refinement
-+ Attended workshops on scientific communication
++ Continued development of software to calculate proximal radial distribution functions of proteins for use in crystal structure refinement 
++ used Fortran and C++
++ modified C++ version to be parallel
 + Culminated in a final report and a poster presentation of research at the IBB Summer Research Symposium
 
+#### Leadership Computing Facility, Argonne National Laboratory, Argonne IL
+### Undergraduate Research Aide under supervision of Anouar Benali
+### Summer 2017
+
++ Developed workflow to generate input for QMCPACK from Quantum Package output <a href="https://github.com/madgal/qmcpack_input_generator">Workflow</a> 
+
+# Teaching Experience
 #### Physics Tutor, August 2015 - May 2016
 Department of Physics, Duquesne University
 
