@@ -6,15 +6,20 @@ permalink: /resume/
 
 # Education:
 
-#### Duquesne University, Pittsburgh PA
+#### Duquesne University, Pittsburgh PA, 2018
 
 #### Dual Degree:
 
 + Bachelor of Science in Physics	
 + Bachelor of Arts in Computer Science
 + Minor: Mathematics
-+ GPA: 4.0
-+ Expected Graduation: May 2018
+
+#### Rice University, Houston TX
+
+#### 
+
++ Doctorate in Physics	
++ Expected date of defense: 2022
 
 # Professional Experience
 
@@ -81,9 +86,10 @@ Department of Physics, Duquesne University
 + Familiarity with Linux and Windows operating systems
 
 # Awards
-+ Goldwater Scholar, Spring 2017
++ Goldwater Scholar, awarded 2017
++ National Science Foundation, Graduate Research Fellowship, awarded 2018
 
 # Professional Memberships
 Member, Sigma Pi Sigma, Physics Honor Society, Spring 2016 - Present
 Member, American Physical Society, January 2016 - Present
-Member, American Chemical Society, Fall 2014 - Present
+Member, American Chemical Society, Fall 2014 - 2021
