@@ -124,7 +124,7 @@ Department of Physics, Duquesne University
 + Treasurer, Society of Physics Students, Aug 2017-May 2018
 + Staff Writer and Peer Reviewer, The D.U. Quark, Jan 2017-May 2018
 
-# Professional Memberships
+# Professional Memberships 
 Member, Sigma Pi Sigma, Physics Honor Society, 2015 - Present
 Member, American Physical Society, 2016 - Present
 Member, Society of Physics Students, 2015 - 2018
