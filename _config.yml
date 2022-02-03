@@ -10,7 +10,7 @@ title: Madeline L. Galbraith
 email: madeline.l.galbraith@gmail.com
 #email: galbraithm001@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I am a PhD candidate at Rice University in the department of Physics under the advisement of Jos`e
+  I am a PhD candidate at Rice University in the department of Physics under the advisement of Jos\`e
 Onuchic in the Center for Theoretical Biological Physics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://madgal.github.io" # the base hostname & protocol for your site
