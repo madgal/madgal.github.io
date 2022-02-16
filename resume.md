@@ -75,6 +75,11 @@ Department of Physics, Duquesne University
 + Suggested studying techniques for exams/homework to better understand topics
 
 # Publications
+ORCID: <a href="https://orcid.org/0000-0003-1735-0747">0000-0003-1735-0747</a>
++ Jia, D., Park, J. H., Kaur, H., Jung, K. H., Yang, S., Tripathi, S.,Galbraith, M., Deng, Y., Jolly, M. K., Kaipparettu,B. A., Onuchic, J. N. & Levine, H. Towards decoding the coupled decision-making of metabolism andepithelial-to-mesenchymal transition in cancer.British Journal of Cancer,1–10 (2021)
++ Yousefi, R., Lynch, G. C.,Galbraith, M.& Pettitt, B. M. Contributions of higher-order proximal distributionfunctions to solvent structure around proteins.The Journal of Chemical Physics155,104110 (2021)
++ Huang, B., Lu, M.,Galbraith, M., Levine, H., Onuchic, J. N. & Jia, D. Decoding the mechanisms underlyingcell-fate decision-making during stem cell differentiation by random circuit perturbation.Journal of The RoyalSociety Interface17,20200500 (2020)
++ Galbraith, M. L.& Madura, J. D. Identifying trends in hydration behavior for modifications to the hydropho-bicity of poly(n-isopropylacrylamide).Journal of Molecular Graphics and Modelling78,168–175 (2017)
 
 # Presentations
 + Galbraith, Madeline, G. C. Lynch, and B. M. Pettitt. Reconstructing Solvent Density of Myoglobin Unit Cell from Proximal Radial Distribution Functions of Amino Acids. Presented at the March 2017 Meeting of the American Physical Society. 
@@ -125,7 +130,7 @@ Department of Physics, Duquesne University
 + Staff Writer and Peer Reviewer, The D.U. Quark, Jan 2017-May 2018
 
 # Professional Memberships 
-Member, Sigma Pi Sigma, Physics Honor Society, 2015 - Present
-Member, American Physical Society, 2016 - Present
-Member, Society of Physics Students, 2015 - 2018
-Member, American Chemical Society, 2014 - 2021
++ Member, Sigma Pi Sigma, Physics Honor Society, 2015 - Present
++ Member, American Physical Society, 2016 - Present
++ Member, Society of Physics Students, 2015 - 2018
++ Member, American Chemical Society, 2014 - 2021
