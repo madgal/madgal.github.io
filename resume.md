@@ -17,7 +17,7 @@ permalink: /resume/
 #### Rice University, Houston TX
 
 + Doctorate in Physics, concentration in theoretical biological physics
-+ Expected date of defense: 2022
++ Expected date of defense: August 2022
 
 # Research Experience
 
