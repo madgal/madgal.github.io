@@ -130,7 +130,7 @@ ORCID: <a href="https://orcid.org/0000-0003-1735-0747">0000-0003-1735-0747</a>
 + Staff Writer and Peer Reviewer, The D.U. Quark, Jan 2017-May 2018
 
 # Professional Memberships 
-+ Member, Sigma Pi Sigma, Physics Honor Society, 2015 - Present
++ Member, Sigma Pi Sigma, Physics Honor Society, 2016 - Present
 + Member, American Physical Society, 2016 - Present
 + Member, Society of Physics Students, 2015 - 2018
 + Member, American Chemical Society, 2014 - 2021
