@@ -4,16 +4,4 @@ layout: default
 
 <div class="home">
    <p class="website">ORCID: <a href="https://orcid.org/0000-0003-1735-0747">0000-0003-1735-0747</a></p>
-  <h1 class="page-heading">Posts</h1>
-  <u1 class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{post.dat | date: "%b %-d, %Y"}}</span>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </u1>
-  <p class="rss-subscribe">subscripe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
