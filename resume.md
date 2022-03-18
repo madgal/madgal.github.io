@@ -3,6 +3,9 @@ layout: page
 title: CV
 permalink: /resume/
 ---
++ madeline.l.galbraith@gmail.com
++<a href="www.linkedin.com/in/madeline-galbraith-physicist">LinkedIn</a>
++ORCID: <a href="https://orcid.org/0000-0003-1735-0747">0000-0003-1735-0747</a>
 
 # Education:
 
@@ -75,7 +78,6 @@ Department of Physics, Duquesne University
 + Suggested studying techniques for exams/homework to better understand topics
 
 # Publications
-ORCID: <a href="https://orcid.org/0000-0003-1735-0747">0000-0003-1735-0747</a>
 + Jia, D., Park, J. H., Kaur, H., Jung, K. H., Yang, S., Tripathi, S.,Galbraith, M., Deng, Y., Jolly, M. K., Kaipparettu,B. A., Onuchic, J. N. & Levine, H. Towards decoding the coupled decision-making of metabolism andepithelial-to-mesenchymal transition in cancer.British Journal of Cancer,1–10 (2021)
 + Yousefi, R., Lynch, G. C.,Galbraith, M.& Pettitt, B. M. Contributions of higher-order proximal distributionfunctions to solvent structure around proteins.The Journal of Chemical Physics155,104110 (2021)
 + Huang, B., Lu, M.,Galbraith, M., Levine, H., Onuchic, J. N. & Jia, D. Decoding the mechanisms underlyingcell-fate decision-making during stem cell differentiation by random circuit perturbation.Journal of The RoyalSociety Interface17,20200500 (2020)
