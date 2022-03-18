@@ -4,8 +4,8 @@ title: CV
 permalink: /resume/
 ---
 + madeline.l.galbraith@gmail.com
-+<a href="www.linkedin.com/in/madeline-galbraith-physicist">LinkedIn</a>
-+ORCID: <a href="https://orcid.org/0000-0003-1735-0747">0000-0003-1735-0747</a>
++ <a href="www.linkedin.com/in/madeline-galbraith-physicist">LinkedIn</a>
++ ORCID: <a href="https://orcid.org/0000-0003-1735-0747">0000-0003-1735-0747</a>
 
 # Education:
 
