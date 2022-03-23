@@ -101,6 +101,8 @@ Department of Physics, Duquesne University
 + Experimental lab data analysis with Vernier LoggerPro, PASCO DataStudio
 + Presentation and writing skills with Latex and Microsoft office 
 + Familiarity with Linux and Windows operating systems
++ Machine learning: Clustering and dimensionality reduction
++ Cloud computing
 
 # Honors
 + National Science Foundation, Graduate Research Fellowship, 2018
