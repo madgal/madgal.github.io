@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BiologicalPhysics
-permalink: /BiologicalPhysics/
+permalink: /posts/
 ---
 
 [Biological Physics]({% post_url biological_physics %})
