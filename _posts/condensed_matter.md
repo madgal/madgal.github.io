@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CondensedMatter
-permalink: /condensed/
+permalink: /posts/
 ---
 
-# QMC
+[Quantum Monte Carlo]({% post_url condensed_matter %})
