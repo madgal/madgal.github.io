@@ -4,7 +4,7 @@ title: BiologicalPhysics
 permalink: /posts/
 ---
 
-[Biological Physics]({% post_url biological_physics %})
+[Biological Physics]({% post_url 2022-04-04-biological_physics %})
 
 
 # EMT and Metabolism
