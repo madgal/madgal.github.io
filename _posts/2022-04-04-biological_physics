@@ -1,8 +1,9 @@
 ---
 layout: page
-title: BiologicalPhysics
+title: BiologicalPhys
 permalink: /posts/
 ---
+
 
 [Biological Physics]({% post_url 2022-04-04-biological_physics %})
 
