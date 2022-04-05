@@ -4,13 +4,13 @@ layout: default
 
 <div class="home"> 
   <h1 class="page-heading"> Projects </h1>
-  <u1 class="post-list">
+  <ul class="post-list">
     {% for post in site.posts %}
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2> 
     {% endfor %} 
-  </u1> 
+  </ul> 
 
    
   </div>
