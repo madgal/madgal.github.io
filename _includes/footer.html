@@ -9,14 +9,6 @@
         <ul class="contact-list">
           <li>{{ site.title }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          
-            
-          {% if site.linkedin_username %}
-          <li>
-            {% include icon-linkedin.html username=site.linkedin_username %}
-          </li>
-          {% endif %}
-          
         </ul>
       </div>
 
@@ -33,22 +25,28 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
-         
-
-
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
         <p>{{ site.description }}</p>
-          {% if site.orcid_username %}
+      </div>
+    </div>
+    
+    <div class="footer-col footer-col">
+
+      {% if site.orcid_username %}
           <li>
             {% include icon-orcid.html username=site.orcid_username %}
           </li>
           {% endif %}
-      </div>
+     
+      {% if site.linkedin_username %}
+          <li>
+            {% include icon-linkedin.html username=site.linkedin_username %}
+          </li>
+          {% endif %}
     </div>
-
   </div>
 
 </footer>
