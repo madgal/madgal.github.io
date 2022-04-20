@@ -1,36 +1,17 @@
 ---
-author:
-- Madeline Galbraith
-bibliography:
-- 'publications.bib'
-nocite: '[@*]'
+layout: page
+title: CV
+permalink: /resume/
 ---
 
-\maketitle
-  -------------------------------------------------------------- ------------------------------------- --------------------------------------
-  <madeline.l.galbraith@gmail.com>                               419-439-1974                          Houston, TX 77004
-  [0000-0003-1735-0747](https://orcid.org/0000-0003-1735-0747)   [madgal](https://github.com/madgal)   [madgal.github.io](madgal.github.io)
-  -------------------------------------------------------------- ------------------------------------- --------------------------------------
 
-\vspace{-1.5em}
 Education
 =========
 
-9em
-
-\eatvspace
 Research Experience
 ===================
 
-9em
 
-9em
-
-9em
-
-9em
-
-\eatvspace
 Publications
 ============
 
@@ -96,7 +77,6 @@ Honors
 
 -   Academic Excellence in Chemistry, Duquesne University, Spring 2015
 
-\newpage
 Service and Outreach
 ====================
 
