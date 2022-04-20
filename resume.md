@@ -7,14 +7,17 @@ permalink: /resume/
 
 Education
 =========
-Rice University, Houston TX
+**Rice University, Houston TX**
 
 Ph.D. Physics, concentration in theoretical biological physics, expected August 2022
 
-Duquesne University, Pittsburgh PA
+
+**Duquesne University, Pittsburgh PA**
 
 BS in Physics, 2018
+
 BA in Computer Science, 2018
+
 Minor in mathematics
 
 Research Experience
