@@ -3,12 +3,12 @@ layout: default
 ---
 
 <div class="home"> 
-  <h1 class="page-heading"> Projects </h1>
+  <h2 class="page-heading"> Projects </h2>
   <ul class="post-list">
     {% for post in site.posts %}
-        <h2>
+        <h1>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2> 
+        </h1> 
     {% endfor %} 
   </ul> 
 
