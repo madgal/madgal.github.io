@@ -22,9 +22,3 @@ Last updated: {{ repo.updated_at | date_to_string }}
 {% endif %}
 
 {% endfor %}
-
-
-## [{{Stochastic-Notch-Patterns}}] ({{https://github.com/madgal/Stochastic-Notch-Patterns}})
-
-
-<a href="https://github.com/madgal/VoronoiAnalysis">Voronoi Analysis</a> 
