@@ -11,7 +11,7 @@ permalink: /projects/
 
 {% if repo.fork == false and repo.topics.size > 0 %}
 
-## [{{ repo.name }}]({{ repo.html_url }})
+## [{{repo.name}}]({{repo.html_url}})
 
 {{ repo.description }}
 
