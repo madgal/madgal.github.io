@@ -18,6 +18,18 @@ Education
 
 Research Experience
 ===================
+**Onuchic Research Group, Center for Theoretical Biological Physics**, Rice University, Houston TX, Jan 2019 to Present
+- Identify therapeutic targets and propose experimental studies with collaborators based on our results of coupling the cancer gene regulatory networks of the epithelial-to-mesenchymal transition and glucose metabolism. 
+- Develop stochastic models of the Notch signaling pathway and analyze results by applying condensed matter and machine learning tools to elucidate pattern formation in the Notch Signaling pathway.
+- Improve accuracy of stemness regulatory network model by including binding and transcriptional regulation. Validate accuracy by comparing simulated gene expression data to experimental results.
+
+**Pettitt Research Group**, University of Texas Medical Branch, Galveston TX, Summer 2018 and 2016
+- Collaborated on development of software, in both Fortran and C++, to improve crystal structure refinement by calculating the proximal radial distribution functions (pRDFs) of proteins from molecular dynamics (using NAMD) of amino acid systems generated in VMD.
+- Confirmed the solvation of myoglobin with pRDFs was consistent with all-atom molecular dynamics but had a computational cost similar to implicit solvent.
+
+**Leadership Computing Facility**, Argonne National Laboratory, Argonne IL, Summer 2017
+\item Decreased computational cost of electronic structure calculations by optimizing Selected Configuration Interaction (CI) wavefunctions for use in Diffusion Monte Carlo. 
+\item Developed <a href="https://github.com/madgal/qmcpack\_input\_generator">workflow</a> to generate input for QMCPACK from selected CI, Quantum Package, output.
 
 
 Publications
