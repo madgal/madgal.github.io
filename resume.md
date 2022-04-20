@@ -28,13 +28,28 @@ Research Experience
 - Confirmed the solvation of myoglobin with pRDFs was consistent with all-atom molecular dynamics but had a computational cost similar to implicit solvent.
 
 **Leadership Computing Facility**, Argonne National Laboratory, Argonne IL, Summer 2017
-\item Decreased computational cost of electronic structure calculations by optimizing Selected Configuration Interaction (CI) wavefunctions for use in Diffusion Monte Carlo. 
-\item Developed <a href="https://github.com/madgal/qmcpack\_input\_generator">workflow</a> to generate input for QMCPACK from selected CI, Quantum Package, output.
+- Decreased computational cost of electronic structure calculations by optimizing Selected Configuration Interaction (CI) wavefunctions for use in Diffusion Monte Carlo. 
+- Developed <a href="https://github.com/madgal/qmcpack_input_generator">workflow</a> to generate input for QMCPACK from selected CI, Quantum Package, output.
 
-
+**Madura Research Group**, Duquesne University, Pittsburgh PA, October 2014 to April 2017
+- Elucidated hydration properties of side chain substitutions of a thermoresponsive polymer with applications in drug delivery.
+- Developed <a href="https://github.com/madgal/VoronoiAnalysis">code to analyze hydration properties</a> using Voronoi polyhedra. 
+    
 Publications
 ============
+**2022**
+- **Galbraith, M.**, Dongya, J., Levine, H. & Onuchic, J. N. Mutual activation of the epithelial-to-mesenchymal transition and metabolic reprogramming stabilizes phenotype with high metastatic potential (2022). Manuscript in preparation.
+- **Galbraith, M.**, Bocci, F. & Onuchic, J. Stochastic fluctuations promote ordered pattern formation of cells in the Notch-Delta signaling pathway. arxiv. eprint: 2202.00763 (2022). Under review.
 
+**2021**
+- Jia, D., Park, J. H., Kaur, H., Jung, K. H., Yang, S., Tripathi, S., **Galbraith, M.**, Deng, Y., Jolly, M. K., Kaipparettu, B. A., Onuchic, J. N. & Levine, H. Towards decoding the coupled decision-making of metabolism and epithelial-to-mesenchymal transition in cancer. British Journal of Cancer, 1–10 (2021).
+- Yousefi, R., Lynch, G. C., **Galbraith, M.** & Pettitt, B. M. Contributions of higher-order proximal distribution functions to solvent structure around proteins. The Journal of Chemical Physics 155, 104110 (2021).
+
+**2020**
+- Huang, B., Lu, M., **Galbraith, M.**, Levine, H., Onuchic, J. N. & Jia, D. Decoding the mechanisms underlying cell-fate decision-making during stem cell differentiation by random circuit perturbation. Journal of The Royal Society Interface 17, 20200500 (2020).
+
+**2017**
+- **Galbraith, M. L.** & Madura, J. D. Identifying trends in hydration behavior for modifications to the hydrophobicity of poly(n-isopropylacrylamide). Journal of Molecular Graphics and Modelling 78, 168–175 (2017).
 
 Skills
 ======
