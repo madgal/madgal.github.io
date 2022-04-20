@@ -9,68 +9,68 @@ permalink: /resume/
 
 ### Education:
 
-#### Duquesne University, Pittsburgh PA, 2018
+### Duquesne University, Pittsburgh PA, 2018
 
-#### Dual Degree:
+Dual Degree:
 
 + Bachelor of Science in Physics	
 + Bachelor of Arts in Computer Science
 + Minor in Mathematics
 
-#### Rice University, Houston TX
+### Rice University, Houston TX
 
 + Doctorate in Physics, concentration in theoretical biological physics
 + Expected date of defense: August 2022
 
 ### Research Experience
 
-#### Onuchic Rsearch Group, Center for Theoretical Biological Physics, Rice University, Houston TX
-#### Graduate Research Assistant
+### Onuchic Rsearch Group, Center for Theoretical Biological Physics, Rice University, Houston TX
+### Graduate Research Assistant
 January 2019-Present
 
 Graduate Research Fellow
 + Develop stochastic models to understand pattern formation in Notch mediated signaling pathways
 + Generalized Random Circuit Perturbation (RACIPE) to include <a href="https://royalsocietypublishing.org/doi/full/10.1098/rsif.2020.0500">chemical binding</a>
 
-#### Pettitt Research Group, University of Texas Medical Branch, Galveston TX
-#### Undergraduate Research Assistant
+### Pettitt Research Group, University of Texas Medical Branch, Galveston TX
+### Undergraduate Research Assistant
  Summer 2016 and 2018
 
 + Continued development of software to calculate <a href="https://pubmed.ncbi.nlm.nih.gov/34525817/">proximal radial distribution functions</a> of proteins for use in crystal structure refinement
 + used Fortran and C++
 + modified C++ version to be parallel
 
-#### Leadership Computing Facility, Argonne National Laboratory, Argonne IL
-#### Undergraduate Research Aide under supervision of Anouar Benali
+### Leadership Computing Facility, Argonne National Laboratory, Argonne IL
+### Undergraduate Research Aide under supervision of Anouar Benali
 Summer 2017
 
 + Developed <a href="https://github.com/madgal/qmcpack_input_generator">workflow</a> to generate input for QMCPACK from Quantum Package output
 + Contributed code to a selected CI program (Quantum Package) to output values of perturbative energy correction at each iteration
 
 
-#### Madura Research Group, Duquesne University, Pittsburgh PA
-#### Undergraduate Research Aide 
+### Madura Research Group, Duquesne University, Pittsburgh PA
+### Undergraduate Research Aide 
 October 2014 - April 2017
 
 + Researched the <a href="https://pubmed.ncbi.nlm.nih.gov/29073554/">hydration properties</a> of the thermoresponsive polymer, poly(n-isoproylacrylamide) as a function of modified hydrophobicity
 + Developed <a href="https://github.com/madgal/VoronoiAnalysis">software</a> to use a Voronoi Polyhedra analysis of hydration properties in python
 
 ### Teaching Experience
-#### Graduate Teaching Assistant, Department of Physics and Astronomy, Rice University
+### Graduate Teaching Assistant, Department of Physics and Astronomy, Rice University
 Jan 2019-Dec 2020
 
 + As a virtual laboratory teaching assistant: Outlined expectations, had open office hours, and graded labs for about 40 students. Taught proper lab skills, like identifiying sources of uncertainty, to students in a virtual setting. 
 + As a laboratory teaching assistant: Supervised groups of 28 students completing laboratory tasks, explained procedures, and guided students in learning the underlying topics.
 + As a teaching assistant for PHYS 335, had office hours to help students learn biological physics concepts and the intersection of math, physics, and biology.
 
-#### Undergraduate Teaching Assistant, Department of Physics, Duquesne University
+### Undergraduate Teaching Assistant, Department of Physics, Duquesne University
 Aug-Dec 2016 and Aug 2017-May 2018 under supervision of Darryl Ozimek
 
 + Taught physics laboratory techniques in conjunction with material taught in lectures
 + Introduced DataStudio/Capstone for graphical analysis of motion and forces
 + Graded labs and maintained gradebook for 20 students
 
-#### Physics Tutor, August 2015 - May 2016
+### Physics Tutor, August 2015 - May 2016
 Department of Physics, Duquesne University
 
 + Reinforced the topics learned in general physics lectures through examples
