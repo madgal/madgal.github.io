@@ -8,13 +8,27 @@ permalink: /resume/
 Education
 =========
 **Rice University, Houston TX**
-- Ph.D. Physics, concentration in theoretical biological physics, expected August 2022
+- Ph.D. Physics, concentration in theoretical biological physics, August 2022
+    -  Thesis title: Investigating the role of biological modularity and stochasticity in cancer metastasis
 
 
 **Duquesne University, Pittsburgh PA**
 - BS in Physics, 2018
 - BA in Computer Science, 2018
 - Minor in mathematics
+
+Industry Experience
+===================
+**Scientist I, Bioinformatics**, Gritstone Bio, Boston MA, Oct 2022-Present
+- Led automation of the cfDNA bioinformatics pipeline leading to a 60\% reduction in turn-around-time and improved transfer/access of deliverables.
+    - Collaborated with IT Cloud Engineering, NGS R\&D, and Clinical teams to ensure all needs were addressed and data was structured in an accessible manner to drive future research
+    - Led and completed a risk-based software validation approach following GAMP 5 guidelines during a 3 month span.
+- Interfaced with the NGS team to support analytical validation of our tumor-informed duplex sequencing cfDNA assay according to BloodPAC protocols.
+- Leveraged in-house data, public datasets, and scientific publications to identify biomarkers and data features that can be used to improve our vaccines and cfDNA assay.
+- Supported characterization of our WES bioinformatics pipeline
+    - FASTQ quality control, Picard HS metrics, variant calling, and contamination checks
+- Initiated test automation to improve pipeline integrity
+
 
 Research Experience
 ===================
@@ -38,8 +52,9 @@ Research Experience
 Publications
 ============
 **2022**
-- **Galbraith, M.**, Dongya, J., Levine, H. & Onuchic, J. N. Mutual activation of the epithelial-to-mesenchymal transition and metabolic reprogramming stabilizes phenotype with high metastatic potential (2022). Manuscript in preparation.
-- **Galbraith, M.**, Bocci, F. & Onuchic, J. Stochastic fluctuations promote ordered pattern formation of cells in the Notch-Delta signaling pathway. arxiv. eprint: 2202.00763 (2022). Under review.
+- **Galbraith, M.**, Dongya, J., Levine, H. & Onuchic, J. N. Decoding the coupled decision-making of the epithelial-
+mesenchymal transition and metabolic reprogramming in cancer. iScience, 105719 (2022)
+- **Galbraith, M.**, Bocci, F. & Onuchic, J. Stochastic fluctuations promote ordered pattern formation of cells in the Notch-Delta signaling pathway. PLoS Computational Biology 18, e1010306 (2022).
 
 **2021**
 - Jia, D., Park, J. H., Kaur, H., Jung, K. H., Yang, S., Tripathi, S., **Galbraith, M.**, Deng, Y., Jolly, M. K., Kaipparettu, B. A., Onuchic, J. N. & Levine, H. Towards decoding the coupled decision-making of metabolism and epithelial-to-mesenchymal transition in cancer. British Journal of Cancer, 1–10 (2021).
@@ -56,19 +71,32 @@ Skills
 
 -   Cancer biology: Glucose metabolism, epithelial-to-mesenchymal
     transition, stemness, angiogenesis
--   Computational model: Gillespie, Monte Carlo, differential equations
+-   Knowledge of molecular biology, protein structure, RNA structure, genomics, and transcriptomics
+-   Computational modeling: Gillespie, Monte Carlo, differential equations
+-   Skilled in algorithm development including machine learning, Bayesian probability, and statistics
+-   Understanding of common bioinformatics tools and databases (e.g.,  BWA, variant callers, and TCGA)
 -   Molecular modeling (all-atom and implicit solvent) and visualization using NAMD, MOE, and VMD
 -   Electronic structure calculations using Quantum Package and QMCPack
 -   Fluency in Python, C, and C++
-    -   Ability to parallelize code using MPI
+-   Expertise in analysis of large biological datasets
 -   Data analysis and visualization using Jupyter and R
 -   Utilized the Python packages: pandas, numpy, matplotlib, scikit-learn, pyvoro
--   Familiar with Fortran, Java, Matlab, and SQL
+-   Familiar with Fortran, Java, Matlab, Bash,  and SQL
 -   Machine learning methods: clustering and dimensionality reduction
--   Cloud/HPC computing: Slurm, Cobalt
--   Create presentations using Latex and PowerPoint
--   Code versioning with GitHub
+-   HPC computing: Slurm, Cobalt
 -   Solid knowledge of Linux/Unix
+-   Experienced in software best practices and large-scale cloud deployments
+    - code versioning with GitHub
+    - containerization with Docker and Singularity/Apptainer
+    - workflow development with Nextflow
+    - Deployment with Jenkins
+    - Test automation with Jenkins, pytest, nf-test
+    - AWS services (S3, Bash, RDS, Quicksight, Cloudformation)
+-   Experienced with Quality Validation and cGxP
+    - GMP, current Good Manufacturing Practices
+    - GAMP 5 risk-based approach to software validation 
+-   Create presentations using Latex and PowerPoint
+-   Project management with Jira 
 
 Honors
 ======
